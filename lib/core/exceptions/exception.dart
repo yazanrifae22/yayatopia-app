@@ -1,0 +1,4 @@
+class GetFailedException implements Exception
+{
+
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654641126257",
+    "project_id": "yayatopia-mobile-app",
+    "storage_bucket": "yayatopia-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654641126257:android:925fa40df82a980f7f34d0",
+        "android_client_info": {
+          "package_name": "com.sakari.yayatopia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654641126257-sp31hj7b2jcihf7apfvv1cohu248pm4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyJmth6HrlgVekaeaITa2N_6lmwwMUeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654641126257-sp31hj7b2jcihf7apfvv1cohu248pm4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
